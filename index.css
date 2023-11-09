@@ -10,3 +10,11 @@ main {
     justify-content: center;
     height: 100dvh;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: #7fffd4;
+    font-size: 20px;
+}
