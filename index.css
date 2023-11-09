@@ -1,11 +1,11 @@
 /* Set background color */
 body {
-    background-color: #00ffff;
+    background-color: #fff;
 }
 
 /* Center Main */
 main {
     display: grid;
-    place-items: center;
-    height: 100dvh;
+    place-items: left;
+    height: 100vh;
 }
