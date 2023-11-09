@@ -7,6 +7,7 @@ function selectElement(selector) {
 
 let businessName = 'Super Pizza Place';
 let address = '215 - 123 Henlow Bay';
+let phoneNumber = '(123) 456-7890';
 
 function login() {
     // Get user's email and password
